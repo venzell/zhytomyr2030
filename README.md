@@ -1,4 +1,4 @@
-# Core project version 1.0.0
+# zhytomyr2030 project version 1.0.0
 ## This project can be used to create a frontend.
 ## How to install?
 * clone the repository
